@@ -15,8 +15,15 @@ body {
     padding: 20px;
 }
 
-.panel_button {
+
+#panel_buttons {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+    
+    
+}
+
+#panel_button {
+    margin-bottom: 10px;
 }
